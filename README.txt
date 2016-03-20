@@ -1,3 +1,0 @@
-Readme datoteka
-
-Ovdje ide tekst...
